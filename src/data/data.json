@@ -1,0 +1,60 @@
+[
+  {
+    "id":1,
+    "img":"./img3.jpg",
+    "title":"The 7th Prince",
+    "category":"TV",
+    "duration":"23m",
+    "openSpots":0
+  },
+  {
+    "id":2,
+    "img":"./img4.jpg",
+    "title":"The Re-Monster",
+    "category":"ONA",
+    "duration":"23m",
+    "openSpots":3
+
+
+  },
+  {
+    "id":3,
+    "img":"./img5.jpg",
+    "title":"Tsukimichi - Fantasy",
+    "category":"TV",
+    "duration":"23m",
+    "openSpots":2
+
+  },
+  {
+    "id":4,
+    "img":"./img6.jpg",
+    "title":"Yami Shibai 12",
+    "category":"ONA",
+    "duration":"23m",
+    "openSpots":0
+
+  },
+  {
+    "id":5,
+    "img":"./img7.jpg",
+    "title":"Hokkaido gals",
+    "category":"ONA",
+    "duration":"23m"
+  },
+  {
+    "id":6,
+    "img":"./img8.jpg",
+    "title":"Dark gethering",
+    "category":"TV",
+    "duration":"23m"
+  },
+  {
+    "id":"7",
+    "img":"./img1.jpg",
+    "title":"Tadaima Okaeri",
+    "category":"ONA",
+    "duration":"23m"
+
+  }
+]

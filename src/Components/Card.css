@@ -1,0 +1,30 @@
+.cd-img {
+  width: 100%;
+  border-radius: 10px;
+  height: 360px;
+  object-fit: cover;
+}
+.card-cont {
+  min-width: 100px;
+  cursor: pointer;
+  position: relative;
+}
+.title {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+.gap {
+  margin-right: 1rem;
+}
+.card-badge {
+  position: absolute;
+  padding: 0.5rem 1rem;
+  border: none;
+  top: 10px;
+  left: 10px;
+  color: white;
+  background-color: black;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border-radius: 8px;
+}

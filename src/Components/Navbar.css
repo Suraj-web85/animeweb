@@ -1,0 +1,9 @@
+.nav{
+  height: fit-content;
+  padding: 1rem 1.5rem 0.7rem;
+  
+  box-shadow: 0px 2px 8px  rgba(0, 0, 0, 0.3);
+}
+.nav > img{
+  max-width: 150px;
+  }

@@ -1,0 +1,22 @@
+.hero-sec{
+  padding: 2rem 1.5rem;
+
+
+}
+.hero-img{
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width:85vmin;
+}
+.hero-head{
+  letter-spacing: 1px;
+  line-height: 1;
+  margin-top: 0.8rem;
+  font-size: clamp(2rem, -0.5791rem + 3.7551vw, 3rem);
+}
+.hero-con{
+  margin-top: 0.8rem;
+  font-size: clamp(1.2rem, 1.1265rem + 0.3918vw, 1.5rem);
+  line-height: 1.1;
+}
